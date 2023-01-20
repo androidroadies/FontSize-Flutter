@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Untitled/Dipak/Flutter/demo/font_size/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Volumes/Untitled/Dipak/Flutter/demo/FontSize-Flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Volumes/Untitled/Dipak/Flutter/demo/font_size/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Volumes/Untitled/Dipak/Flutter/demo/FontSize-Flutter/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
